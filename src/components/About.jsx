@@ -19,10 +19,8 @@ const About = () => {
           <div>
             <p>
               Ik ben gepassioneerd over het bouwen van uitstekende software die
-              het leven van de mensen om me heen verbetert. Ik ben
-              gespecialiseerd in het maken van software voor klanten variërend
-              van particulieren en kleine bedrijven... tot grote ondernemingen.
-              Wat zou je doen als je een software expert binnen handbereik had?
+              het leven van de mensen om me heen verbetert.
+              Wat zou u doen als u een software expert binnen handbereik had?
             </p>
           </div>
         </div>
