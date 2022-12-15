@@ -1,5 +1,7 @@
 import React from "react";
+import bmiCalculatorImg from "../assets/projects/BMI-Calculator.png";
 import powerLijstImg from "../assets/projects/Powerlijst.png";
+
 import realEstate from "../assets/projects/realestate.jpg";
 
 const Work = () => {
@@ -50,12 +52,12 @@ const Work = () => {
               BMI-Calculator
               </span>
               <div className="pt-8 text-center">
-                <a href="">
+                <a href="https://michielglover.github.io/bmi-calculator-javascript/">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/MichielGlover/bmi-calculator-javascript">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
